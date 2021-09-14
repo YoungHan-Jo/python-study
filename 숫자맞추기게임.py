@@ -1,7 +1,7 @@
 import random
 
 randomNumber = random.randint(1,20)
-chance = 5
+chance = 6
 challenge = 0
 
 name = input('당신의 이름은? \n')
